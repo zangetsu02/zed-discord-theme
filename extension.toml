@@ -1,0 +1,7 @@
+id = "dark-discord"
+name = "Dark Discord Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["zangetsu"]
+description = "A theme for VS Code inspired by Discord's new dark theme."
+repository = "https://github.com/zangetsu02/zed-dark-discord-theme"
