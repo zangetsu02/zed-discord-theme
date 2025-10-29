@@ -4,4 +4,4 @@ version = "2.0.0"
 schema_version = 1
 authors = ["zangetsu"]
 description = "A theme for Zed inspired by Discord's new theme."
-repository = "https://github.com/zangetsu02/zed-dark-discord-theme"
+repository = "https://github.com/zangetsu02/zed-discord-theme.git"
